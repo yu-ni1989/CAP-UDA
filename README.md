@@ -5,5 +5,5 @@ CAP-UDA consists of a mathematically interpretable image-to-image transferring a
 
 CAP-UDA can get superior results using only one-stop training. 
 
-Like our previous study (RDNet) which focuses on small targets in RSIs, the code will be published here when the paper is accepted. 
+Like our previous study (RDNet) which focuses on small targets in RSIs, the code of CAP-UDA will be published here when the paper is accepted. 
 
